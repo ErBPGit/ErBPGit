@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Bishal Patel. I am currently pursuing Master's in Electrical and Computer Engineering with GPA 4.0 and have completed BSC in Electrical and Computer Engineering with GPA 3.4
-     from Minnesota State University, Mankato.
+       from Minnesota State University, Mankato.
+-    I have worked as Staff Firmware Enginner for ITRON INC. for 3 years contributing in developing and testing firmware and battery management system and participating as code reviewer.
 - 👀 I’m interested in designing firmware for products and working on their tests.
 - 🌱 I’m currently learning the Design of experiments, Taguchi methods, automated data acquisition, and analysis methods.
-- 💞️ I’m looking to collaborate on any projects aligning with embedded and firmware designs and testings.
+- 💞️ I’m looking to collaborate on projects aligning with embedded and firmware designs and testings.
 - 📫 Contact me through bishal.patel2056@gmail.com
 
 
